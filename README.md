@@ -1,2 +1,2 @@
-# angry-birds-without-git
-withouit git
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
